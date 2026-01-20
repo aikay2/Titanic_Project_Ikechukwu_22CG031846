@@ -1,0 +1,6 @@
+Name: Ikechukwu Cos-Anyikwa
+Matric Number: 22CG031846
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method Used: Pickle
+Live URL: https://your-app-name.onrender.com
+GitHub Repository Link: https://github.com/aikay2/Titanic_Project_Ikechukwu_22CG031846
